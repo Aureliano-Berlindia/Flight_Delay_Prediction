@@ -1,0 +1,18 @@
+数据可视化：
+https://smoosavi.org/datasets/lstw
+
+天气接口：
+https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
+station list: https://www.ncei.noaa.gov/access/isis/stationlist?networkid=1
+
+request example:
+https://www.ncei.noaa.gov/access/services/data/v1?dataset=global-marine&stations=AUCE&startDate=2022-01-01&endDate=2022-01-31&boundingBox=90,-180,-90,180
+
+
+https://www.weather.gov/fwd/f6
+
+https://weatherdownloader.oikolab.com/downloader
+
+https://www.reddit.com/r/datasets/comments/u9gmyf/need_help_finding_historical_weather_data_set/
+
+https://rapidapi.com/meteostat/api/meteostat/
